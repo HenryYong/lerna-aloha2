@@ -1,2 +1,2 @@
 require('lerna-aloha-core')
-console.log('main')
+console.log('main!!!')
